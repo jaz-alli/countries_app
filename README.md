@@ -7,17 +7,22 @@ Follow these steps to run the project locally:
    git clone
    ```
 
-2. Install dependencies:
+2. Navigate to the application directory:
+   ```
+   cd countries_app
+   ```
+
+3. Install dependencies:
    ```
    npm install
    ```
 
-3. Start the application:
+4. Start the application:
    ```
    npm start
    ```
 
-4. Open your web browser and navigate to:
+5. In your web browser navigate to:
    ```
    http://localhost:3000
    ```
